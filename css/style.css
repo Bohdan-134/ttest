@@ -1,0 +1,352 @@
+.row-form {
+    text-align: center;
+    font-family: sans-serif
+}
+
+#order {
+    max-width: 570px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 0 0;
+    box-shadow: 0 0 10px 1px #ebebeb;
+    border-radius: 15px
+}
+
+.head-form {}
+
+.boxit p {
+    box-sizing: border-box
+}
+
+.col-md-12 {
+    width: 100%;
+    display: block
+}
+
+.col-md-12 input {
+    width: 80%;
+    height: 58px;
+    padding: 8px 10px 8px 45px;
+    font-size: 17px;
+    border-radius: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    outline: none;
+    color: #757575;
+    text-align: left
+}
+
+#order button {
+    webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    -ms-border-radius: 21px;
+    -o-border-radius: 21px;
+    border-radius: 21px;
+    text-align: center;
+    text-transform: none;
+    background-color: #0c3492;
+    color: #fff;
+    transition: opacity .2s ease-out;
+    border: none;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 20px 0;
+    width: 90%;
+    outline: none;
+    cursor: pointer
+}
+
+#order h2,
+#order h3 {
+    color: #fff;
+    background: #e31c23
+}
+
+#order h3 {
+    margin-bottom: 0;
+    font-size: 22px;
+    line-height: 29px;
+    text-shadow: 0 1px 2px #000;
+    display: inline-block;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 3px
+}
+
+.head-form {
+    border-radius: 10px 10px 0 0;
+    background: #e31c23;
+    font-size: 24px;
+    padding: 10px 0 0
+}
+
+.head-form img {
+    margin-bottom: -8px !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important
+}
+
+#order h2 {
+    padding-top: 8px;
+    font-size: 17px;
+    margin: 0
+}
+
+.boxit .frame-container {
+    padding-bottom: 0
+}
+
+.head-form span {
+    color: #fff !important;
+    line-height: 33px;
+    display: inline-block;
+    margin: 8px 0 -8px
+}
+
+.head-form span img {
+    margin-bottom: 0;
+    width: auto;
+    display: inline-block
+}
+
+.name,
+.phone {
+    position: relative;
+    border: none;
+    background: no-repeat;
+    padding: 0
+}
+
+.name input {
+    background: url(../img/name.png);
+    background-repeat: no-repeat;
+    background-position: 4% 50%
+}
+
+.phone input {
+    background: url(../img/phone.png);
+    background-repeat: no-repeat;
+    background-position: 4% 50%
+}
+
+button img {
+    margin-bottom: 0 !important;
+    display: inline-block !important;
+    width: 22px !important
+}
+
+.under-button {
+    display: block;
+    width: 90%;
+    margin: 15px auto;
+    text-align: left;
+    color: #818181;
+    font-size: 15px;
+    line-height: 20px
+}
+
+.under-button i {
+    font-style: normal;
+    color: red
+}
+
+@media(max-width:767px) {
+    #order button {
+        font-size: 21px;
+        padding: 5px 0 16px
+    }
+
+    button img {
+        margin-bottom: -5px;
+        display: inline-block
+    }
+
+    .col-md-12 input {
+        height: 48px
+    }
+
+    button img {
+        margin-bottom: -3px !important
+    }
+}
+
+.row-form {
+    text-align: center;
+    font-family: sans-serif
+}
+
+#order {
+    max-width: 570px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 0 0;
+    box-shadow: 0 0 10px 1px #ebebeb;
+    border-radius: 15px
+}
+
+.head-form {}
+
+.boxit p {
+    box-sizing: border-box
+}
+
+.col-md-12 {
+    width: 100%;
+    display: block
+}
+
+.col-md-12 input {
+    width: 80%;
+    height: 58px;
+    padding: 8px 10px 8px 45px;
+    font-size: 17px;
+    border-radius: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    outline: none;
+    color: #757575;
+    text-align: left
+}
+
+#order button {
+    webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    -ms-border-radius: 21px;
+    -o-border-radius: 21px;
+    border-radius: 21px;
+    text-align: center;
+    text-transform: none;
+    background-color: #0c3492;
+    color: #fff;
+    transition: opacity .2s ease-out;
+    border: none;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 20px 0;
+    width: 90%;
+    outline: none;
+    cursor: pointer
+}
+
+#order h2,
+#order h3 {
+    color: #fff;
+    background: #e31c23
+}
+
+#order h3 {
+    margin-bottom: 0;
+    font-size: 22px;
+    line-height: 29px;
+    text-shadow: 0 1px 2px #000;
+    display: inline-block;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 3px
+}
+
+.head-form {
+    border-radius: 10px 10px 0 0;
+    background: #e31c23;
+    font-size: 24px;
+    padding: 10px 0 0
+}
+
+.head-form img {
+    margin-bottom: -8px !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important
+}
+
+#order h2 {
+    padding-top: 8px;
+    font-size: 17px;
+    margin: 0
+}
+
+.boxit .frame-container {
+    padding-bottom: 0
+}
+
+.head-form span {
+    color: #fff !important;
+    line-height: 33px;
+    display: inline-block;
+    margin: 8px 0 -8px
+}
+
+.head-form span img {
+    margin-bottom: 0;
+    width: auto;
+    display: inline-block
+}
+
+.name,
+.phone {
+    position: relative;
+    border: none;
+    background: no-repeat;
+    padding: 0
+}
+
+.name input {
+    background: url(../img/name.png);
+    background-repeat: no-repeat;
+    background-position: 4% 50%
+}
+
+.phone input {
+    background: url(../img/phone.png);
+    background-repeat: no-repeat;
+    background-position: 4% 50%
+}
+
+button img {
+    margin-bottom: 0 !important;
+    display: inline-block !important;
+    width: 22px !important
+}
+
+.under-button {
+    display: block;
+    width: 90%;
+    margin: 15px auto;
+    text-align: left;
+    color: #818181;
+    font-size: 15px;
+    line-height: 20px
+}
+
+.under-button i {
+    font-style: normal;
+    color: red
+}
+
+@media(max-width:767px) {
+    #order button {
+        font-size: 21px;
+        padding: 5px 0 16px
+    }
+
+    button img {
+        margin-bottom: -5px;
+        display: inline-block
+    }
+
+    .col-md-12 input {
+        height: 48px
+    }
+
+    button img {
+        margin-bottom: -3px !important
+    }
+}
+
+#lottery {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.product-img{
+    max-width: 200px;
+}
